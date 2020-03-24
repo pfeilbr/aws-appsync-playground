@@ -31,6 +31,7 @@ learn and experiment with [AWS AppSync](https://aws.amazon.com/appsync/)
 
 ## Resources
 
+* [sbstjn/appsync-resolvers-example](https://github.com/sbstjn/appsync-resolvers-example) - Example project for AppSync, GraphQL, and AWS Lambda resolvers using Go.
 * [sbstjn/go-appsync-graphql-cloudformation](https://github.com/sbstjn/go-appsync-graphql-cloudformation) - AWS AppSync GraphQL API Proxy with Lambda, CloudFormation, and SAM
 * [AWS JavaScript SDK | AWS.AppSync](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/AppSync.html)
 * [Build your own multi-user photo album app with React, GraphQL, and AWS Amplify](https://read.acloud.guru/build-your-own-multi-user-photo-album-app-with-react-graphql-and-aws-amplify-18d9cfe27f60)
