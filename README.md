@@ -19,6 +19,8 @@ learn and experiment with [AWS AppSync](https://aws.amazon.com/appsync/)
     * [AWS::AppSync::GraphQLSchema](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-appsync-graphqlschema.html)
     * [createType](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/AppSync.html#createType-property)
     * [startSchemaCreation](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/AppSync.html#startSchemaCreation-property)
+* FunctionConfiguration
+  * [AWS::AppSync::FunctionConfiguration](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-appsync-functionconfiguration.htm)
 * Resolver
     * [AWS::AppSync::Resolver](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-appsync-resolver.html)
     * [createResolver](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/AppSync.html#createResolver-property)
@@ -31,6 +33,7 @@ learn and experiment with [AWS AppSync](https://aws.amazon.com/appsync/)
 
 ## Resources
 
+* [nabeelthedev/chat-app](https://github.com/nabeelthedev/chat-app) - example using CloudFormation for all AppSync and other resource provisioning.
 * [sbstjn/appsync-resolvers-example](https://github.com/sbstjn/appsync-resolvers-example) - Example project for AppSync, GraphQL, and AWS Lambda resolvers using Go.
 * [sbstjn/go-appsync-graphql-cloudformation](https://github.com/sbstjn/go-appsync-graphql-cloudformation) - AWS AppSync GraphQL API Proxy with Lambda, CloudFormation, and SAM
 * [AWS JavaScript SDK | AWS.AppSync](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/AppSync.html)
